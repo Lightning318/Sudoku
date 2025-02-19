@@ -1,0 +1,1 @@
+Sudoku solver. Inspired by the Hudoku solver
